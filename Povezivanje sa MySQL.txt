@@ -1,0 +1,11 @@
+1.izvrsiti download xampp i instalirati
+ download- https://www.apachefriends.org/index.html
+ instalacija - https://www.youtube.com/watch?v=-f8N4FEQWyY&ab_channel=edureka%21
+
+2.Pokrenuti xampp servise (Apache i MySQL)
+
+3.Nakon instalacija pronaci lokaciju xampp foldera (po defalutu je C:\xampp)
+
+4.php fajlove smjestimo na lokaciju xampp/htdocs/member
+
+5.Kreirati bazu koja odgovara php fajlovima (server, naziv baze, tabele)
